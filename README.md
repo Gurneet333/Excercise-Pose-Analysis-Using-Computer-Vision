@@ -33,6 +33,4 @@ python debug.py
 
 Jupyter notebook files contain the plots for angles, DTW and other evaluation of various exercises.
 
-## Output
-<img src="pose_ss.png" width="450" height="500">
 
